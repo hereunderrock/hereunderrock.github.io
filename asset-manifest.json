@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52142f83.css",
+    "main.js": "/static/js/main.9727da00.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/logo.jpg": "/static/media/logo.8513e9755147347e71f8.jpg",
+    "static/media/logo2.jpg": "/static/media/logo2.dc16bf0b3b32ef545456.jpg",
+    "static/media/about3.jpg": "/static/media/about3.86c0eae5a3c8dc624bdf.jpg",
+    "static/media/recent2.jpg": "/static/media/recent2.02c9699c92e0f6b0fce9.jpg",
+    "static/media/mormon2.jpg": "/static/media/mormon2.6d6a107e4d2b1d885a00.jpg",
+    "static/media/cave2.jpg": "/static/media/cave2.eed8fe26d02786417cf3.jpg",
+    "static/media/famfavs2.jpg": "/static/media/famfavs2.be052e12143038a85b29.jpg",
+    "static/media/gallery2.jpg": "/static/media/gallery2.cb3430b5efb2dc0f9a4a.jpg",
+    "static/media/title2.jpg": "/static/media/title2.a5afb445cc18e6d6a229.jpg",
+    "static/media/bone2.jpg": "/static/media/bone2.a36133729bea59e14362.jpg",
+    "static/media/bonecheck.jpg": "/static/media/bonecheck.c5eecb536e3f83cebf5e.jpg",
+    "static/media/bonesm.jpg": "/static/media/bonesm.45175d176165eda76136.jpg",
+    "static/media/bg.jpg": "/static/media/bg.ac59198065ceccb466fc.jpg",
+    "static/media/boneshake.jpg": "/static/media/boneshake.482285ecbf2cd77755a9.jpg",
+    "static/media/hour.jpg": "/static/media/hour.88fa1291ef9a22aa4ae0.jpg",
+    "static/media/foot.jpg": "/static/media/foot.8ed492255143ad4fa49b.jpg",
+    "index.html": "/index.html",
+    "main.52142f83.css.map": "/static/css/main.52142f83.css.map",
+    "main.9727da00.js.map": "/static/js/main.9727da00.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52142f83.css",
+    "static/js/main.9727da00.js"
+  ]
+}
